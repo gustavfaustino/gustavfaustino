@@ -4,7 +4,7 @@
 
 </br>
 
-An ADHD person who wants to know more 'bout the programming world.
+Just a man who wants to know more 'bout the programming world.
 
 <div>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40px" /></code>
