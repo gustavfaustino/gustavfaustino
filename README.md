@@ -9,10 +9,8 @@ Just a man who wants to know more 'bout the programming world.
 <div>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40px" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="40px"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40px"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" height="40px"/></code>
+  
 </div>
 
 <br>
