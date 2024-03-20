@@ -13,7 +13,7 @@
 
 - ***Tecnologia***
 
-💼 Proucurando pela minha primeira experiência!
+💼 Proucurando pela minha primeira experiência na área!
 
 ---
 
