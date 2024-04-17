@@ -7,7 +7,7 @@
 - ***Sobre mim:***
   
 📌 São Paulo, SP <p>
-⛱️ Amo jogos ( especialmente puzzles ), lo-fi, ost's de jogos e ,claro, codar! <p>
+⛱️ Amo jogos ( especialmente puzzles ), lo-fi, ost's de jogos e claro, codar! <p>
 
 ---
 
