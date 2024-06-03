@@ -4,8 +4,11 @@
 
 <img src='assets/ghibli.jpeg' height=210 width=340 align='right'>
 
-- ***Sobre mim:***
-  
+- ***Sobre mim:*** <p>
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/gustav_faustino107)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gabriel-4218b2250/)
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustav.faustino107@gmail.com)
+
 📌 São Paulo, SP <p>
 ⛱️ Amo jogos ( especialmente puzzles ), lo-fi, ost's de jogos e claro, codar! <p>
 💻 Análise e Desenvolvimento de Sistemas - UNICSUL <p>
