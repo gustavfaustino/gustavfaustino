@@ -2,17 +2,14 @@
 
 ###
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4OWliMGo4bzRhcmxtdGdzeXBuY2FnMGozczc5cnl5cjJidXVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKGOhl6hVAxkvMQ/giphy.webp"  />
 <p align="left">📌 São Paulo, SP<br><br>⛱️ Amo jogos ( especialmente puzzles ), lo-fi, ost's de jogos e claro, codar! <br><br>💻 - Análise e Desenvolvimento de Sistemas - UNICSUL<br>- PROANO - Equipe 5 2024.02</p>
 
-###
 
-<br clear="both">
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4OWliMGo4bzRhcmxtdGdzeXBuY2FnMGozczc5cnl5cjJidXVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKGOhl6hVAxkvMQ/giphy.webp"  />
 
-###
 
-<div align="center">
+
   <a href="https://www.instagram.com/gustav.faustino107?igsh=MTBodTA3Z2NqenRyMA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -22,9 +19,8 @@
   <a href="https://www.linkedin.com/in/gustavo-gabriel-4218b2250/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
 
-###
+---
 
 <br clear="both">
 
@@ -60,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gustavfaustino/gustavfaustino/output/snake.svg" alt="Snake animation" />
+
 
 ###
