@@ -3,7 +3,8 @@
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4OWliMGo4bzRhcmxtdGdzeXBuY2FnMGozczc5cnl5cjJidXVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKGOhl6hVAxkvMQ/giphy.webp"  />
-<p align="left">📌 São Paulo, SP<br><br>⛱️ Amo jogos ( especialmente puzzles ), lo-fi, ost's de jogos e claro, codar! <br><br>💻 - Análise e Desenvolvimento de Sistemas - UNICSUL<br>- PROANO - Equipe 5 2024.02</p>
+<p align="left">📌 São Paulo, SP<br><br>⛱️ Amo jogos ( especialmente puzzles ), lo-fi, ost's de jogos e claro, codar! <br><br>
+  💻 - Análise e Desenvolvimento de Sistemas - UNICSUL<br>💙 - PROANO - Equipe 5 2024.02</p>
 
 
 
