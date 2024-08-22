@@ -6,11 +6,6 @@
 <p align="left">📌 São Paulo, SP<br><br>⛱️ Amo jogos ( especialmente puzzles ), lo-fi, ost's de jogos e claro, codar! <br><br>
   💻 - Análise e Desenvolvimento de Sistemas - UNICSUL<br>💙 - PROANO - Equipe 5 2024.02</p>
 
-
-
-
-
-
   <a href="https://www.instagram.com/gustav.faustino107?igsh=MTBodTA3Z2NqenRyMA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -56,7 +51,5 @@
 ###
 
 <br clear="both">
-
-
 
 ###
