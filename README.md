@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200vh" src="assets/yarnYoshi.gif"  />
+<img align="right" height="200vh" src="assets/yarnYoshi.gif"  alt="Personagem Yoshi dormindo"/>
 <p align="left">📌 São Paulo, SP<br><br>⛱️ Amo jogos ( especialmente puzzles ), OST's, Mario Party e claro, codar! <br><br>
   💻 - Análise e Desenvolvimento de Sistemas - UNICSUL<br>💙 - PROANO - Equipe 5 2024.02</p>
 
