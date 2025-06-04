@@ -2,7 +2,7 @@
 
 ###
 # 💫 Sobre mim:
-⛱️ - Amo jogos ( especialmente puzzles ), Mario Party e claro, codar!<br>💻 - Formado em ADS na UNICSUL<br>💙 - Aluno destaque - Equipe 5, PROA, 2024.02<br>🌱 - Atualmente aprendendo React, Redux e AWS<br>📌 - São Paulo, SP <br> 💜 - [My beloved](https://github.com/Ni15Marcondess)
+⛱️ - Amo jogos ( especialmente puzzles ), Mario Party e claro, codar!<br>💻 - Formado em ADS na UNICSUL<br>💙 - Aluno destaque - Equipe 5, PROA, 2024.02<br>🌱 - Atualmente estudando Docker, Python e me preparando para AWS Developer<br>📌 - São Paulo, SP <br> 💜 - [My beloved](https://github.com/Ni15Marcondess)
 
 
 ## 🌐 Onde me encontrar:
