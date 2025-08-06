@@ -2,13 +2,12 @@
 
 ###
 # 💫 Sobre mim:
-⛱️ - Amo jogos ( especialmente puzzles ), Mario Party e claro, codar!<br>💻 - Formado em ADS na UNICSUL<br>💙 - Aluno destaque - Equipe 5, PROA, 2024.02<br>🌱 - Atualmente estudando Docker, Python e me preparando para AWS Developer<br>📌 - São Paulo, SP <br> 💜 - [My beloved](https://github.com/Ni15Marcondess)
+⛱️ - Amo música, Mario Party e claro, codar!<br>💻 - Formado em ADS na UNICSUL<br>💙 - Aluno destaque - Equipe 5, PROA, 2024.02<br>🌱 - Atualmente estudando Docker, Python e me preparando para AWS Developer<br>📌 - São Paulo, SP <br> 💜 - [My beloved](https://github.com/Ni15Marcondess)
 
 
 ## 🌐 Onde me encontrar:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustav.faustino107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavogfoliveira) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gustavo.gfoliveira@hotmail.com) 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/nemezis04051/)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
 
 # 💻 Tecnologias:
 <div align="left">
