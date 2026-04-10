@@ -2,7 +2,7 @@
 
 ###
 # 💫 Sobre mim:
-⛱️ - Amo música, Mario Party e claro, codar!<br>💻 - Formado em ADS na UNICSUL<br>💙 - Aluno destaque - Equipe 5, PROA, 2024.02<br>🌱 - Atualmente estudando Python e querendo me tornar um cientista de dados!<br>📌 - São Paulo, SP <br> 💜 - [My beloved](https://github.com/Ni15Marcondess)
+⛱️ - Amo música, Mario Party e claro, codar!<br>💻 - Formado em ADS na UNICSUL<br>💙 - Aluno destaque - Equipe 5, PROA, 2024.02<br>🌱 - Atualmente atuando como Engenheiro de Software QA na Cielo!<br>📌 - São Paulo, SP <br> 💜 - [My beloved](https://github.com/Ni15Marcondess)
 
 
 ## 🌐 Onde me encontrar:
