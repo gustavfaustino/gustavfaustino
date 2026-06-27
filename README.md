@@ -12,7 +12,7 @@
   <p data-importer="text">
     ⛱️ - Amo música, jogos, livros, gatos e claro, codar!<br>
     🌱 - Atualmente atuando como Engenheiro de Software QA na Cielo!<br>
-    💻 - Engenheiro de Software em Formação; Formado em ADS na UNICSUL<br>
+    💻 - Engenheiro de Software em Formação; Formado em ADS<br>
     💙 - Aluno destaque - Equipe 5, PROA, 2024.02<br>
     📌 - São Paulo, SP<br>
     💜 - <a href="https://github.com/Ni15Marcondess" target="_blank">My beloved</a>
